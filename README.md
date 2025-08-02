@@ -13,4 +13,4 @@ Ini adalah aplikasi sederhana untuk membuat daftar tugas (To-Do List) menggunaka
 ## Cara Menjalankan
 1. Clone repositori ini ke komputer Anda:
    ```bash
-   git clone https://github.com/Revou-Coding-Camp/codingcamp-21-jul-25-ressaeka
+   git clone https://github.com/Revou-Coding-Camp/codingcamp-21-jul-25-ressaeka.git
